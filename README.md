@@ -4,6 +4,8 @@
 
 I build practical web products, backend systems, automation tools, and data-driven applications. My work focuses on Python, JavaScript, APIs, Linux deployments, Docker, web scraping, data workflows, DNS, VPNs, and secure connectivity.
 
+![](https://komarev.com/ghpvc/?username=arashhadadex&color=brightgreen)
+
 ## What I Work On
 
 - Full-stack applications with Python, JavaScript, React, Node.js, and FastAPI
