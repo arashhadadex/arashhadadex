@@ -8,7 +8,10 @@ I build practical web products, backend systems, automation tools, and data-driv
   <img src="https://komarev.com/ghpvc/?username=arashhadadex&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arashhadadex)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arashhadadex" alt="GitHub Streak" />
+</p>
+
 
 ## What I Work On
 
