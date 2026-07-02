@@ -5,6 +5,10 @@
 I build practical web products, backend systems, automation tools, and data-driven applications. My work focuses on Python, JavaScript, APIs, Linux deployments, Docker, web scraping, data workflows, DNS, VPNs, and secure connectivity.
 
 ![](https://komarev.com/ghpvc/?username=arashhadadex&color=brightgreen)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arashhadadex&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=arashhadadex)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashhadadex&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arashhadadex)
 
 ## What I Work On
 
