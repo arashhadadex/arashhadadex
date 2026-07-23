@@ -8,18 +8,9 @@ I build practical web products, backend systems, automation tools, and data-driv
 
 [![Website](https://img.shields.io/badge/Website-datatodeloy.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://datatodeploy.com)
 [![GitHub](https://img.shields.io/badge/GitHub-arashhadadex-181717?style=for-the-badge&logo=github)](https://github.com/arashhadadex)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge)](https://github.com/arashhadadex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arash_Hadad-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arashhadadex)
 [![YouTube](https://img.shields.io/badge/datatodeploy-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@datatodeploy)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&logo=briefcase&logoColor=white)](https://github.com/arashhadadex)
-
-
-[![Available for Hire](https://img.shields.io/badge/Available%20for-Hire-brightgreen?style=for-the-badge&logo=briefcase)](https://github.com/arashhadadex)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Full--Stack%20Developer-success?style=for-the-badge)](https://github.com/arashhadadex)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Opportunities-success?style=for-the-badge)](https://github.com/arashhadadex)
-[![Open to Work](https://img.shields.io/badge/Open%20to-AI%20%26%20Data%20Science-success?style=for-the-badge)](https://github.com/arashhadadex)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge)](https://github.com/arashhadadex)
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arashhadadex&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
