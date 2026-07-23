@@ -9,6 +9,7 @@ I build practical web products, backend systems, automation tools, and data-driv
 [![Website](https://img.shields.io/badge/Website-datatodeloy.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://datatodeploy.com)
 [![GitHub](https://img.shields.io/badge/GitHub-arashhadadex-181717?style=for-the-badge&logo=github)](https://github.com/arashhadadex)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge)](https://github.com/arashhadadex)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arashhadadsoleymani@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arash_Hadad-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arashhadadex)
 [![YouTube](https://img.shields.io/badge/datatodeploy-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@datatodeploy)
 
@@ -36,6 +37,14 @@ I build practical web products, backend systems, automation tools, and data-driv
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+### 📡 Data Engineering & Web Scraping
+
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Backend
 
