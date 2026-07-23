@@ -87,16 +87,6 @@ I build practical web products, backend systems, automation tools, and data-driv
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## What I Work On
-
-- Full-stack applications with Python, JavaScript, React, Node.js, and FastAPI
-- Automation, web scraping, API integrations, and data-processing pipelines
-- Data science workflows including preprocessing, visualization, and machine learning
-- Linux servers, Docker deployments, reverse proxies, DNS, VPNs, and networking
-- Technical writing at [datatodeploy.com](https://datatodeploy.com)
-
-
-
 ## Background
 
 Independent full-stack developer working on web applications, automation systems, algorithmic trading tools, scraping pipelines, and data-focused projects. I have a B.Sc. in Electrical Engineering and transitioned into software engineering through project-based learning and practical development work.
