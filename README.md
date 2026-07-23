@@ -4,6 +4,14 @@
 
 I build practical web products, backend systems, automation tools, and data-driven applications. My work focuses on Python, JavaScript, APIs, Linux deployments, Docker, web scraping, data workflows, DNS, VPNs, and secure connectivity.
 
+## Connect with me
+
+[![Website](https://img.shields.io/badge/Website-pycoin24.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://datatodeploy.com)
+[![GitHub](https://img.shields.io/badge/GitHub-arashhadadex-181717?style=for-the-badge&logo=github)](https://github.com/arashhadadex)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arash_Hadad-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arashhadadex)
+[![YouTube](https://img.shields.io/badge/YouTube-Coming_Soon-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@datatodeploy)
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arashhadadex&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
