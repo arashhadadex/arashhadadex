@@ -17,7 +17,7 @@ I build practical web products, backend systems, automation tools, and data-driv
 [![Open to Work](https://img.shields.io/badge/Open%20to-Full--Stack%20Developer-success?style=for-the-badge)](https://github.com/arashhadadex)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Opportunities-success?style=for-the-badge)](https://github.com/arashhadadex)
 [![Open to Work](https://img.shields.io/badge/Open%20to-AI%20%26%20Data%20Science-success?style=for-the-badge)](https://github.com/arashhadadex)
-
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge)](https://github.com/arashhadadex)
 
 
 
