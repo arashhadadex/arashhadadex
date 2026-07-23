@@ -10,6 +10,7 @@ I build practical web products, backend systems, automation tools, and data-driv
 [![GitHub](https://img.shields.io/badge/GitHub-arashhadadex-181717?style=for-the-badge&logo=github)](https://github.com/arashhadadex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arash_Hadad-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arashhadadex)
 [![YouTube](https://img.shields.io/badge/datatodeploy-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@datatodeploy)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge)](https://github.com/arashhadadex)
 
 
 <p align="center">
