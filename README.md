@@ -35,6 +35,9 @@ I build practical web products, backend systems, automation tools, and data-driv
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
@@ -51,6 +54,7 @@ I build practical web products, backend systems, automation tools, and data-driv
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![API Integration](https://img.shields.io/badge/API_Integration-FF6C37?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![Reflex](https://img.shields.io/badge/Reflex-6E56CF?style=for-the-badge)
@@ -91,21 +95,8 @@ I build practical web products, backend systems, automation tools, and data-driv
 - Linux servers, Docker deployments, reverse proxies, DNS, VPNs, and networking
 - Technical writing at [datatodeploy.com](https://datatodeploy.com)
 
-## Skills
 
-**Backend:** Python, FastAPI, REST APIs, Node.js  
-**Frontend:** React, JavaScript, HTML, CSS  
-**Data:** SQL, machine learning, data engineering, visualization  
-**Infrastructure:** Linux, Docker, Git, server deployment  
-**Networking:** DNS, VPNs, IP networking, secure remote access
 
 ## Background
 
 Independent full-stack developer working on web applications, automation systems, algorithmic trading tools, scraping pipelines, and data-focused projects. I have a B.Sc. in Electrical Engineering and transitioned into software engineering through project-based learning and practical development work.
-
-## Contact
-
-- [datatodeploy.com](https://datatodeploy.com)
-- [LinkedIn](https://www.linkedin.com/in/arashhadadex/)
-- [GitHub](https://www.github.com/arashhadadex)
-- [Email](mailto:arashhadadsoleymani@yahoo.com)
