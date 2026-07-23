@@ -21,6 +21,56 @@ I build practical web products, backend systems, automation tools, and data-driv
 </p>
 
 
+### 🛠️ Tech Stack
+
+#### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia)
+![Common Lisp](https://img.shields.io/badge/Common_Lisp-3C3C3C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+
+#### Data Science & AI
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+#### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+#### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+#### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge)
+
+#### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
 ## What I Work On
 
 - Full-stack applications with Python, JavaScript, React, Node.js, and FastAPI
