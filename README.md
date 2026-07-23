@@ -6,10 +6,10 @@ I build practical web products, backend systems, automation tools, and data-driv
 
 ## Connect with me
 
-[![Website](https://img.shields.io/badge/Website-pycoin24.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://datatodeploy.com)
+[![Website](https://img.shields.io/badge/Website-datatodeloy.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://datatodeploy.com)
 [![GitHub](https://img.shields.io/badge/GitHub-arashhadadex-181717?style=for-the-badge&logo=github)](https://github.com/arashhadadex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arash_Hadad-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arashhadadex)
-[![YouTube](https://img.shields.io/badge/YouTube-Coming_Soon-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@datatodeploy)
+[![YouTube](https://img.shields.io/badge/datatodeploy-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@datatodeploy)
 
 
 <p align="center">
